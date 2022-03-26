@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/unit-4-assessment-flex44-anthony-vanoni/static/css/main.ce13e1fa.css",
-    "main.js": "/github.io/unit-4-assessment-flex44-anthony-vanoni/static/js/main.a9a228fe.js",
-    "static/js/787.72170ad4.chunk.js": "/github.io/unit-4-assessment-flex44-anthony-vanoni/static/js/787.72170ad4.chunk.js",
-    "index.html": "/github.io/unit-4-assessment-flex44-anthony-vanoni/index.html",
-    "main.ce13e1fa.css.map": "/github.io/unit-4-assessment-flex44-anthony-vanoni/static/css/main.ce13e1fa.css.map",
-    "main.a9a228fe.js.map": "/github.io/unit-4-assessment-flex44-anthony-vanoni/static/js/main.a9a228fe.js.map",
-    "787.72170ad4.chunk.js.map": "/github.io/unit-4-assessment-flex44-anthony-vanoni/static/js/787.72170ad4.chunk.js.map"
+    "main.css": "/TVanoni85/unit-4-assessment-flex44-anthony-vanoni/static/css/main.ce13e1fa.css",
+    "main.js": "/TVanoni85/unit-4-assessment-flex44-anthony-vanoni/static/js/main.1307f481.js",
+    "static/js/787.72170ad4.chunk.js": "/TVanoni85/unit-4-assessment-flex44-anthony-vanoni/static/js/787.72170ad4.chunk.js",
+    "index.html": "/TVanoni85/unit-4-assessment-flex44-anthony-vanoni/index.html",
+    "main.ce13e1fa.css.map": "/TVanoni85/unit-4-assessment-flex44-anthony-vanoni/static/css/main.ce13e1fa.css.map",
+    "main.1307f481.js.map": "/TVanoni85/unit-4-assessment-flex44-anthony-vanoni/static/js/main.1307f481.js.map",
+    "787.72170ad4.chunk.js.map": "/TVanoni85/unit-4-assessment-flex44-anthony-vanoni/static/js/787.72170ad4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ce13e1fa.css",
-    "static/js/main.a9a228fe.js"
+    "static/js/main.1307f481.js"
   ]
 }
