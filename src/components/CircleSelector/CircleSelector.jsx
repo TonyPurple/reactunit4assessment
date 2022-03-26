@@ -4,7 +4,7 @@ import './CircleSelector.css'
 function circleSelector(props) {
     return (
         <div className="CircleSelector">
-            <button>Select Circle 1</button>
+            <button>{props.selected}</button>
             <button>Select Circle 2</button>
             <button>Select Circle 3</button>
             <button>Select Circle 4</button>
