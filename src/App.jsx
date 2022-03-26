@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import CircleSelector from './components/CircleSelector'
-import Circles from './components/Circles'
+import CircleSelector from './components/CircleSelector/CircleSelector'
+import Circles from './components/Circles/Circles'
 
 class App extends Component {
   render() {
