@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
+import CircleSelector from './components/CircleSelector'
+import Circles from './components/Circles'
 
 class App extends Component {
   render() {
@@ -7,7 +9,10 @@ class App extends Component {
       <div className="App">
         <header className="App-header">UNIT 4 FINAL ASSESSMENT</header>
         <main>
-          YOUR TWO COMPONENTS WILL GO HERE
+        <CircleSelector
+        />
+        <Circles
+        />
         </main>
       </div>
     );
