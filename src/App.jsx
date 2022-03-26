@@ -24,6 +24,7 @@ class App extends Component {
             onClick={this.selectCircle}
         />
         <Circles
+            selected={this.state.selected}
         />
         </main>
       </div>
