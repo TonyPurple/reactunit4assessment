@@ -7,8 +7,6 @@ function circleSelector(props) {
         props.onClick(event.target.value)
       }
 
-    if (props.selected)
-
     return (
         <div className="CircleSelector">
             <button className={props.selected === '1' ? 'selected' : null} value='1' onClick={handleSelection}>{props.selected === '1' ? 'Circle 1 Selected' : 'Select Circle 1'}</button>
